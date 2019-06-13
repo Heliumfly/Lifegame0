@@ -1,0 +1,658 @@
+src/lifegame/Cell.java:3:	Avoid short class names like Cell
+src/lifegame/Cell.java:3:	Avoid short class names like Cell
+src/lifegame/Cell.java:3:	Header comments are required
+src/lifegame/Cell.java:3:	Header comments are required
+src/lifegame/Cell.java:3:	The class 'Cell' is suspected to be a Data Class (WOC=20.000%, NOPA=0, NOAM=4, WMC=10)
+src/lifegame/Cell.java:3:	The class 'Cell' is suspected to be a Data Class (WOC=20.000%, NOPA=0, NOAM=4, WMC=10)
+src/lifegame/Cell.java:4:	Field comments are required
+src/lifegame/Cell.java:4:	Field comments are required
+src/lifegame/Cell.java:4:	The field name 'Status' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifegame/Cell.java:4:	The field name 'Status' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifegame/Cell.java:4:	Variables should start with a lowercase character, 'Status' starts with uppercase character.
+src/lifegame/Cell.java:4:	Variables should start with a lowercase character, 'Status' starts with uppercase character.
+src/lifegame/Cell.java:5:	Field comments are required
+src/lifegame/Cell.java:5:	Field comments are required
+src/lifegame/Cell.java:5:	The field name 'Living' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifegame/Cell.java:5:	The field name 'Living' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifegame/Cell.java:5:	Variables should start with a lowercase character, 'Living' starts with uppercase character.
+src/lifegame/Cell.java:5:	Variables should start with a lowercase character, 'Living' starts with uppercase character.
+src/lifegame/Cell.java:8:	To avoid mistakes add a comment at the beginning of the Cell constructor if you want a default access modifier
+src/lifegame/Cell.java:8:	To avoid mistakes add a comment at the beginning of the Cell constructor if you want a default access modifier
+src/lifegame/Cell.java:12:	Avoid naming non-fields with the prefix m_
+src/lifegame/Cell.java:12:	Avoid naming non-fields with the prefix m_
+src/lifegame/Cell.java:12:	Avoid naming non-fields with the prefix m_
+src/lifegame/Cell.java:12:	Avoid naming non-fields with the prefix m_
+src/lifegame/Cell.java:12:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'm_Living' is not final.
+src/lifegame/Cell.java:12:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'm_Living' is not final.
+src/lifegame/Cell.java:12:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'm_Status' is not final.
+src/lifegame/Cell.java:12:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'm_Status' is not final.
+src/lifegame/Cell.java:12:	Parameter 'm_Living' is not assigned and could be declared final
+src/lifegame/Cell.java:12:	Parameter 'm_Living' is not assigned and could be declared final
+src/lifegame/Cell.java:12:	Parameter 'm_Status' is not assigned and could be declared final
+src/lifegame/Cell.java:12:	Parameter 'm_Status' is not assigned and could be declared final
+src/lifegame/Cell.java:12:	The method parameter name 'm_Living' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifegame/Cell.java:12:	The method parameter name 'm_Living' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifegame/Cell.java:12:	The method parameter name 'm_Status' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifegame/Cell.java:12:	The method parameter name 'm_Status' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifegame/Cell.java:12:	To avoid mistakes add a comment at the beginning of the Cell constructor if you want a default access modifier
+src/lifegame/Cell.java:12:	To avoid mistakes add a comment at the beginning of the Cell constructor if you want a default access modifier
+src/lifegame/Cell.java:19:	Avoid naming non-fields with the prefix m_
+src/lifegame/Cell.java:19:	Avoid naming non-fields with the prefix m_
+src/lifegame/Cell.java:19:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'm_Status' is not final.
+src/lifegame/Cell.java:19:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'm_Status' is not final.
+src/lifegame/Cell.java:19:	Parameter 'm_Status' is not assigned and could be declared final
+src/lifegame/Cell.java:19:	Parameter 'm_Status' is not assigned and could be declared final
+src/lifegame/Cell.java:19:	The method parameter name 'm_Status' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifegame/Cell.java:19:	The method parameter name 'm_Status' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifegame/Cell.java:25:	Avoid naming non-fields with the prefix m_
+src/lifegame/Cell.java:25:	Avoid naming non-fields with the prefix m_
+src/lifegame/Cell.java:25:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'm_Living' is not final.
+src/lifegame/Cell.java:25:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'm_Living' is not final.
+src/lifegame/Cell.java:25:	Parameter 'm_Living' is not assigned and could be declared final
+src/lifegame/Cell.java:25:	Parameter 'm_Living' is not assigned and could be declared final
+src/lifegame/Cell.java:25:	The method parameter name 'm_Living' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifegame/Cell.java:25:	The method parameter name 'm_Living' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifegame/Cell.java:28:	Public method and constructor comments are required
+src/lifegame/Cell.java:28:	Public method and constructor comments are required
+src/lifegame/Cell.java:28:	The instance method name 'UpdateStatus' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifegame/Cell.java:28:	The instance method name 'UpdateStatus' doesn't match '[a-z][a-zA-Z0-9]*'
+src/lifegame/Cell.java:30:	This statement should have braces
+src/lifegame/Cell.java:30:	This statement should have braces
+src/lifegame/Cell.java:31:	Avoid using Literals in Conditional Statements
+src/lifegame/Cell.java:31:	Avoid using Literals in Conditional Statements
+src/lifegame/Cell.java:32:	This statement should have braces
+src/lifegame/Cell.java:32:	This statement should have braces
+src/lifegame/Cell.java:34:	This statement should have braces
+src/lifegame/Cell.java:34:	This statement should have braces
+src/lifegame/CellTest.java:9:	Each class should declare at least one constructor
+src/lifegame/CellTest.java:9:	Each class should declare at least one constructor
+src/lifegame/CellTest.java:9:	Header comments are required
+src/lifegame/CellTest.java:9:	Header comments are required
+src/lifegame/CellTest.java:11:	Field comments are required
+src/lifegame/CellTest.java:11:	Field comments are required
+src/lifegame/CellTest.java:13:	Document empty method body
+src/lifegame/CellTest.java:13:	Document empty method body
+src/lifegame/CellTest.java:13:	Public method and constructor comments are required
+src/lifegame/CellTest.java:13:	Public method and constructor comments are required
+src/lifegame/CellTest.java:17:	Document empty method body
+src/lifegame/CellTest.java:17:	Document empty method body
+src/lifegame/CellTest.java:17:	Public method and constructor comments are required
+src/lifegame/CellTest.java:17:	Public method and constructor comments are required
+src/lifegame/CellTest.java:21:	Public method and constructor comments are required
+src/lifegame/CellTest.java:21:	Public method and constructor comments are required
+src/lifegame/CellTest.java:21:	Unit tests should not contain more than 1 assert(s).
+src/lifegame/CellTest.java:21:	Unit tests should not contain more than 1 assert(s).
+src/lifegame/CellTest.java:24:	JUnit assertions should include a message
+src/lifegame/CellTest.java:24:	JUnit assertions should include a message
+src/lifegame/CellTest.java:27:	JUnit assertions should include a message
+src/lifegame/CellTest.java:27:	JUnit assertions should include a message
+src/lifegame/CellTest.java:30:	JUnit assertions should include a message
+src/lifegame/CellTest.java:30:	JUnit assertions should include a message
+src/lifegame/CellTest.java:34:	JUnit assertions should include a message
+src/lifegame/CellTest.java:34:	JUnit assertions should include a message
+src/lifegame/Control.java:4:	Avoid unused imports such as 'java.awt.Component'
+src/lifegame/Control.java:4:	Avoid unused imports such as 'java.awt.Component'
+src/lifegame/Control.java:6:	Avoid unused imports such as 'java.awt.event.MouseAdapter'
+src/lifegame/Control.java:6:	Avoid unused imports such as 'java.awt.event.MouseAdapter'
+src/lifegame/Control.java:7:	Avoid unused imports such as 'java.awt.event.MouseEvent'
+src/lifegame/Control.java:7:	Avoid unused imports such as 'java.awt.event.MouseEvent'
+src/lifegame/Control.java:8:	Avoid unused imports such as 'java.awt.event.MouseListener'
+src/lifegame/Control.java:8:	Avoid unused imports such as 'java.awt.event.MouseListener'
+src/lifegame/Control.java:9:	Avoid unused imports such as 'java.text.SimpleDateFormat'
+src/lifegame/Control.java:9:	Avoid unused imports such as 'java.text.SimpleDateFormat'
+src/lifegame/Control.java:10:	Avoid unused imports such as 'java.util.Date'
+src/lifegame/Control.java:10:	Avoid unused imports such as 'java.util.Date'
+src/lifegame/Control.java:11:	Avoid unused imports such as 'java.util.Scanner'
+src/lifegame/Control.java:11:	Avoid unused imports such as 'java.util.Scanner'
+src/lifegame/Control.java:17:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/lifegame/Control.java:17:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/lifegame/Control.java:17:	Header comments are required
+src/lifegame/Control.java:17:	Header comments are required
+src/lifegame/Control.java:17:	The class 'Control' has a Modified Cyclomatic Complexity of 14 (Highest = 13).
+src/lifegame/Control.java:17:	The class 'Control' has a Modified Cyclomatic Complexity of 14 (Highest = 13).
+src/lifegame/Control.java:17:	The class 'Control' has a Standard Cyclomatic Complexity of 14 (Highest = 13).
+src/lifegame/Control.java:17:	The class 'Control' has a Standard Cyclomatic Complexity of 14 (Highest = 13).
+src/lifegame/Control.java:18:	Parameter 'args' is not assigned and could be declared final
+src/lifegame/Control.java:18:	Parameter 'args' is not assigned and could be declared final
+src/lifegame/Control.java:18:	Public method and constructor comments are required
+src/lifegame/Control.java:18:	Public method and constructor comments are required
+src/lifegame/Control.java:18:	The method 'main' has a Modified Cyclomatic Complexity of 13.
+src/lifegame/Control.java:18:	The method 'main' has a Modified Cyclomatic Complexity of 13.
+src/lifegame/Control.java:18:	The method 'main' has a Standard Cyclomatic Complexity of 13.
+src/lifegame/Control.java:18:	The method 'main' has a Standard Cyclomatic Complexity of 13.
+src/lifegame/Control.java:18:	The method 'main(String)' has a cyclomatic complexity of 13.
+src/lifegame/Control.java:18:	The method 'main(String)' has a cyclomatic complexity of 13.
+src/lifegame/Control.java:19:	Local variable 'jframe' could be declared final
+src/lifegame/Control.java:19:	Local variable 'jframe' could be declared final
+src/lifegame/Control.java:21:	Local variable 'jpanel' could be declared final
+src/lifegame/Control.java:21:	Local variable 'jpanel' could be declared final
+src/lifegame/Control.java:24:	Found 'DD'-anomaly for variable 'cell' (lines '24'-'25').
+src/lifegame/Control.java:24:	Found 'DD'-anomaly for variable 'cell' (lines '24'-'25').
+src/lifegame/Control.java:25:	Found 'DD'-anomaly for variable 'cell' (lines '25'-'26').
+src/lifegame/Control.java:25:	Found 'DD'-anomaly for variable 'cell' (lines '25'-'26').
+src/lifegame/Control.java:33:	Avoid variables with short names like g
+src/lifegame/Control.java:33:	Avoid variables with short names like g
+src/lifegame/Control.java:33:	Local variable 'g' could be declared final
+src/lifegame/Control.java:33:	Local variable 'g' could be declared final
+src/lifegame/Control.java:41:	Avoid using Literals in Conditional Statements
+src/lifegame/Control.java:41:	Avoid using Literals in Conditional Statements
+src/lifegame/Control.java:41:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Control.java:41:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Control.java:41:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Control.java:41:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Control.java:41:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Control.java:41:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Control.java:49:	Avoid variables with short names like d1
+src/lifegame/Control.java:49:	Avoid variables with short names like d1
+src/lifegame/Control.java:51:	Avoid variables with short names like d2
+src/lifegame/Control.java:51:	Avoid variables with short names like d2
+src/lifegame/Control.java:51:	Local variable 'd2' could be declared final
+src/lifegame/Control.java:51:	Local variable 'd2' could be declared final
+src/lifegame/Control.java:52:	Avoid using Literals in Conditional Statements
+src/lifegame/Control.java:52:	Avoid using Literals in Conditional Statements
+src/lifegame/Control.java:53:	Found 'DU'-anomaly for variable 'd1' (lines '53'-'103').
+src/lifegame/Control.java:53:	Found 'DU'-anomaly for variable 'd1' (lines '53'-'103').
+src/lifegame/Control.java:64:	Avoid using Literals in Conditional Statements
+src/lifegame/Control.java:64:	Avoid using Literals in Conditional Statements
+src/lifegame/Control.java:64:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Control.java:64:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Control.java:64:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Control.java:64:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Control.java:64:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Control.java:64:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:5:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/lifegame/Map.java:5:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/lifegame/Map.java:5:	Avoid short class names like Map
+src/lifegame/Map.java:5:	Avoid short class names like Map
+src/lifegame/Map.java:5:	Header comments are required
+src/lifegame/Map.java:5:	Header comments are required
+src/lifegame/Map.java:5:	The class 'Map' has a Modified Cyclomatic Complexity of 6 (Highest = 11).
+src/lifegame/Map.java:5:	The class 'Map' has a Modified Cyclomatic Complexity of 6 (Highest = 11).
+src/lifegame/Map.java:5:	The class 'Map' has a Standard Cyclomatic Complexity of 6 (Highest = 11).
+src/lifegame/Map.java:5:	The class 'Map' has a Standard Cyclomatic Complexity of 6 (Highest = 11).
+src/lifegame/Map.java:5:	The utility class name 'Map' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+src/lifegame/Map.java:5:	The utility class name 'Map' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+src/lifegame/Map.java:6:	Avoid variables with short names like x
+src/lifegame/Map.java:6:	Avoid variables with short names like x
+src/lifegame/Map.java:6:	Field comments are required
+src/lifegame/Map.java:6:	Field comments are required
+src/lifegame/Map.java:6:	The public constant name 'x' doesn't match '[A-Z][A-Z_0-9]*'
+src/lifegame/Map.java:6:	The public constant name 'x' doesn't match '[A-Z][A-Z_0-9]*'
+src/lifegame/Map.java:6:	Variables that are final and static should be all capitals, 'x' is not all capitals.
+src/lifegame/Map.java:6:	Variables that are final and static should be all capitals, 'x' is not all capitals.
+src/lifegame/Map.java:7:	Avoid variables with short names like y
+src/lifegame/Map.java:7:	Avoid variables with short names like y
+src/lifegame/Map.java:7:	Field comments are required
+src/lifegame/Map.java:7:	Field comments are required
+src/lifegame/Map.java:7:	The public constant name 'y' doesn't match '[A-Z][A-Z_0-9]*'
+src/lifegame/Map.java:7:	The public constant name 'y' doesn't match '[A-Z][A-Z_0-9]*'
+src/lifegame/Map.java:7:	Variables that are final and static should be all capitals, 'y' is not all capitals.
+src/lifegame/Map.java:7:	Variables that are final and static should be all capitals, 'y' is not all capitals.
+src/lifegame/Map.java:8:	Public method and constructor comments are required
+src/lifegame/Map.java:8:	Public method and constructor comments are required
+src/lifegame/Map.java:9:	Found 'DD'-anomaly for variable 'cell' (lines '9'-'12').
+src/lifegame/Map.java:9:	Found 'DD'-anomaly for variable 'cell' (lines '9'-'12').
+src/lifegame/Map.java:12:	Avoid instantiating new objects inside loops
+src/lifegame/Map.java:12:	Avoid instantiating new objects inside loops
+src/lifegame/Map.java:13:	Avoid instantiating new objects inside loops
+src/lifegame/Map.java:13:	Avoid instantiating new objects inside loops
+src/lifegame/Map.java:13:	Local variable 'random' could be declared final
+src/lifegame/Map.java:13:	Local variable 'random' could be declared final
+src/lifegame/Map.java:14:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:14:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:14:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:14:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:14:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:14:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:19:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/lifegame/Map.java:19:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/lifegame/Map.java:19:	Parameter 'cell' is not assigned and could be declared final
+src/lifegame/Map.java:19:	Parameter 'cell' is not assigned and could be declared final
+src/lifegame/Map.java:19:	Public method and constructor comments are required
+src/lifegame/Map.java:19:	Public method and constructor comments are required
+src/lifegame/Map.java:19:	The method 'getLiving' has a Modified Cyclomatic Complexity of 11.
+src/lifegame/Map.java:19:	The method 'getLiving' has a Modified Cyclomatic Complexity of 11.
+src/lifegame/Map.java:19:	The method 'getLiving' has a Standard Cyclomatic Complexity of 11.
+src/lifegame/Map.java:19:	The method 'getLiving' has a Standard Cyclomatic Complexity of 11.
+src/lifegame/Map.java:19:	The method 'getLiving(Cell)' has a cyclomatic complexity of 15.
+src/lifegame/Map.java:19:	The method 'getLiving(Cell)' has a cyclomatic complexity of 15.
+src/lifegame/Map.java:19:	The method 'getLiving(Cell)' has an NPath complexity of 1298
+src/lifegame/Map.java:19:	The method 'getLiving(Cell)' has an NPath complexity of 1298
+src/lifegame/Map.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:24:	This statement should have braces
+src/lifegame/Map.java:24:	This statement should have braces
+src/lifegame/Map.java:26:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:26:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:26:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:26:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:26:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:26:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:26:	This statement should have braces
+src/lifegame/Map.java:26:	This statement should have braces
+src/lifegame/Map.java:28:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:28:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:28:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:28:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:28:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:28:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:28:	This statement should have braces
+src/lifegame/Map.java:28:	This statement should have braces
+src/lifegame/Map.java:30:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:30:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:30:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:30:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:30:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:30:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:30:	This statement should have braces
+src/lifegame/Map.java:30:	This statement should have braces
+src/lifegame/Map.java:32:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:32:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:32:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:32:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:32:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:32:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:32:	This statement should have braces
+src/lifegame/Map.java:32:	This statement should have braces
+src/lifegame/Map.java:34:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:34:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:34:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:34:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:34:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:34:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:34:	This statement should have braces
+src/lifegame/Map.java:34:	This statement should have braces
+src/lifegame/Map.java:36:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:36:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:36:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:36:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:36:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:36:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:36:	This statement should have braces
+src/lifegame/Map.java:36:	This statement should have braces
+src/lifegame/Map.java:38:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:38:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:38:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:38:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:38:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:38:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:38:	This statement should have braces
+src/lifegame/Map.java:38:	This statement should have braces
+src/lifegame/Map.java:39:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:39:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:39:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:39:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:39:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:39:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:44:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/lifegame/Map.java:44:	Consider using varargs for methods or constructors which take an array the last parameter.
+src/lifegame/Map.java:44:	Parameter 'cell' is not assigned and could be declared final
+src/lifegame/Map.java:44:	Parameter 'cell' is not assigned and could be declared final
+src/lifegame/Map.java:44:	Public method and constructor comments are required
+src/lifegame/Map.java:44:	Public method and constructor comments are required
+src/lifegame/Map.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:52:	Comment is too large: Too many lines
+src/lifegame/Map.java:52:	Comment is too large: Too many lines
+src/lifegame/MapTest.java:8:	Each class should declare at least one constructor
+src/lifegame/MapTest.java:8:	Each class should declare at least one constructor
+src/lifegame/MapTest.java:8:	Header comments are required
+src/lifegame/MapTest.java:8:	Header comments are required
+src/lifegame/MapTest.java:10:	Field comments are required
+src/lifegame/MapTest.java:10:	Field comments are required
+src/lifegame/MapTest.java:10:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/lifegame/MapTest.java:10:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/lifegame/MapTest.java:11:	Field comments are required
+src/lifegame/MapTest.java:11:	Field comments are required
+src/lifegame/MapTest.java:14:	Public method and constructor comments are required
+src/lifegame/MapTest.java:14:	Public method and constructor comments are required
+src/lifegame/MapTest.java:21:	Public method and constructor comments are required
+src/lifegame/MapTest.java:21:	Public method and constructor comments are required
+src/lifegame/MapTest.java:21:	The method 'testUpdate()' has a cyclomatic complexity of 10.
+src/lifegame/MapTest.java:21:	The method 'testUpdate()' has a cyclomatic complexity of 10.
+src/lifegame/MapTest.java:22:	Found 'DD'-anomaly for variable 'flag' (lines '22'-'32').
+src/lifegame/MapTest.java:22:	Found 'DD'-anomaly for variable 'flag' (lines '22'-'32').
+src/lifegame/MapTest.java:22:	Found 'DD'-anomaly for variable 'flag' (lines '22'-'34').
+src/lifegame/MapTest.java:22:	Found 'DD'-anomaly for variable 'flag' (lines '22'-'34').
+src/lifegame/MapTest.java:22:	Found 'DD'-anomaly for variable 'flag' (lines '22'-'36').
+src/lifegame/MapTest.java:22:	Found 'DD'-anomaly for variable 'flag' (lines '22'-'36').
+src/lifegame/MapTest.java:24:	Found 'DD'-anomaly for variable 'cell2' (lines '24'-'26').
+src/lifegame/MapTest.java:24:	Found 'DD'-anomaly for variable 'cell2' (lines '24'-'26').
+src/lifegame/MapTest.java:26:	Found 'DD'-anomaly for variable 'cell2' (lines '26'-'27').
+src/lifegame/MapTest.java:26:	Found 'DD'-anomaly for variable 'cell2' (lines '26'-'27').
+src/lifegame/MapTest.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:32:	Found 'DD'-anomaly for variable 'flag' (lines '32'-'32').
+src/lifegame/MapTest.java:32:	Found 'DD'-anomaly for variable 'flag' (lines '32'-'32').
+src/lifegame/MapTest.java:32:	Found 'DD'-anomaly for variable 'flag' (lines '32'-'34').
+src/lifegame/MapTest.java:32:	Found 'DD'-anomaly for variable 'flag' (lines '32'-'34').
+src/lifegame/MapTest.java:32:	Found 'DD'-anomaly for variable 'flag' (lines '32'-'36').
+src/lifegame/MapTest.java:32:	Found 'DD'-anomaly for variable 'flag' (lines '32'-'36').
+src/lifegame/MapTest.java:32:	This statement should have braces
+src/lifegame/MapTest.java:32:	This statement should have braces
+src/lifegame/MapTest.java:33:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:33:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:33:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:33:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:33:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:33:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:33:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:33:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:33:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:33:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:33:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:33:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:34:	Found 'DD'-anomaly for variable 'flag' (lines '34'-'32').
+src/lifegame/MapTest.java:34:	Found 'DD'-anomaly for variable 'flag' (lines '34'-'32').
+src/lifegame/MapTest.java:34:	Found 'DD'-anomaly for variable 'flag' (lines '34'-'34').
+src/lifegame/MapTest.java:34:	Found 'DD'-anomaly for variable 'flag' (lines '34'-'34').
+src/lifegame/MapTest.java:34:	Found 'DD'-anomaly for variable 'flag' (lines '34'-'36').
+src/lifegame/MapTest.java:34:	Found 'DD'-anomaly for variable 'flag' (lines '34'-'36').
+src/lifegame/MapTest.java:34:	This statement should have braces
+src/lifegame/MapTest.java:34:	This statement should have braces
+src/lifegame/MapTest.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:36:	Found 'DD'-anomaly for variable 'flag' (lines '36'-'32').
+src/lifegame/MapTest.java:36:	Found 'DD'-anomaly for variable 'flag' (lines '36'-'32').
+src/lifegame/MapTest.java:36:	Found 'DD'-anomaly for variable 'flag' (lines '36'-'34').
+src/lifegame/MapTest.java:36:	Found 'DD'-anomaly for variable 'flag' (lines '36'-'34').
+src/lifegame/MapTest.java:36:	Found 'DD'-anomaly for variable 'flag' (lines '36'-'36').
+src/lifegame/MapTest.java:36:	Found 'DD'-anomaly for variable 'flag' (lines '36'-'36').
+src/lifegame/MapTest.java:36:	This statement should have braces
+src/lifegame/MapTest.java:36:	This statement should have braces
+src/lifegame/MapTest.java:39:	JUnit assertions should include a message
+src/lifegame/MapTest.java:39:	JUnit assertions should include a message
+src/lifegame/MapTest.java:39:	Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/lifegame/MapTest.java:39:	Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/lifegame/MapTest1.java:8:	Each class should declare at least one constructor
+src/lifegame/MapTest1.java:8:	Each class should declare at least one constructor
+src/lifegame/MapTest1.java:8:	Header comments are required
+src/lifegame/MapTest1.java:8:	Header comments are required
+src/lifegame/MapTest1.java:8:	The class 'MapTest1' has a Modified Cyclomatic Complexity of 8 (Highest = 15).
+src/lifegame/MapTest1.java:8:	The class 'MapTest1' has a Modified Cyclomatic Complexity of 8 (Highest = 15).
+src/lifegame/MapTest1.java:8:	The class 'MapTest1' has a Standard Cyclomatic Complexity of 8 (Highest = 15).
+src/lifegame/MapTest1.java:8:	The class 'MapTest1' has a Standard Cyclomatic Complexity of 8 (Highest = 15).
+src/lifegame/MapTest1.java:10:	Field comments are required
+src/lifegame/MapTest1.java:10:	Field comments are required
+src/lifegame/MapTest1.java:10:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/lifegame/MapTest1.java:10:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/lifegame/MapTest1.java:11:	Field comments are required
+src/lifegame/MapTest1.java:11:	Field comments are required
+src/lifegame/MapTest1.java:11:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifegame/MapTest1.java:11:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/lifegame/MapTest1.java:15:	Public method and constructor comments are required
+src/lifegame/MapTest1.java:15:	Public method and constructor comments are required
+src/lifegame/MapTest1.java:21:	Public method and constructor comments are required
+src/lifegame/MapTest1.java:21:	Public method and constructor comments are required
+src/lifegame/MapTest1.java:21:	The method 'testGetLiving' has a Modified Cyclomatic Complexity of 15.
+src/lifegame/MapTest1.java:21:	The method 'testGetLiving' has a Modified Cyclomatic Complexity of 15.
+src/lifegame/MapTest1.java:21:	The method 'testGetLiving' has a Standard Cyclomatic Complexity of 15.
+src/lifegame/MapTest1.java:21:	The method 'testGetLiving' has a Standard Cyclomatic Complexity of 15.
+src/lifegame/MapTest1.java:21:	The method 'testGetLiving()' has a cyclomatic complexity of 18.
+src/lifegame/MapTest1.java:21:	The method 'testGetLiving()' has a cyclomatic complexity of 18.
+src/lifegame/MapTest1.java:21:	The method 'testGetLiving()' has an NPath complexity of 4860
+src/lifegame/MapTest1.java:21:	The method 'testGetLiving()' has an NPath complexity of 4860
+src/lifegame/MapTest1.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:27:	Found 'DD'-anomaly for variable 'flag' (lines '27'-'32').
+src/lifegame/MapTest1.java:27:	Found 'DD'-anomaly for variable 'flag' (lines '27'-'32').
+src/lifegame/MapTest1.java:31:	Avoid using Literals in Conditional Statements
+src/lifegame/MapTest1.java:31:	Avoid using Literals in Conditional Statements
+src/lifegame/MapTest1.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:32:	Found 'DD'-anomaly for variable 'flag' (lines '32'-'32').
+src/lifegame/MapTest1.java:32:	Found 'DD'-anomaly for variable 'flag' (lines '32'-'32').
+src/lifegame/MapTest1.java:32:	Found 'DD'-anomaly for variable 'flag' (lines '32'-'37').
+src/lifegame/MapTest1.java:32:	Found 'DD'-anomaly for variable 'flag' (lines '32'-'37').
+src/lifegame/MapTest1.java:32:	Found 'DD'-anomaly for variable 'flag' (lines '32'-'39').
+src/lifegame/MapTest1.java:32:	Found 'DD'-anomaly for variable 'flag' (lines '32'-'39').
+src/lifegame/MapTest1.java:32:	This statement should have braces
+src/lifegame/MapTest1.java:32:	This statement should have braces
+src/lifegame/MapTest1.java:35:	This statement should have braces
+src/lifegame/MapTest1.java:35:	This statement should have braces
+src/lifegame/MapTest1.java:36:	Avoid using Literals in Conditional Statements
+src/lifegame/MapTest1.java:36:	Avoid using Literals in Conditional Statements
+src/lifegame/MapTest1.java:36:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:36:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:36:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:36:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:36:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:36:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:37:	Found 'DD'-anomaly for variable 'flag' (lines '37'-'37').
+src/lifegame/MapTest1.java:37:	Found 'DD'-anomaly for variable 'flag' (lines '37'-'37').
+src/lifegame/MapTest1.java:37:	Found 'DD'-anomaly for variable 'flag' (lines '37'-'39').
+src/lifegame/MapTest1.java:37:	Found 'DD'-anomaly for variable 'flag' (lines '37'-'39').
+src/lifegame/MapTest1.java:37:	Found 'DD'-anomaly for variable 'flag' (lines '37'-'42').
+src/lifegame/MapTest1.java:37:	Found 'DD'-anomaly for variable 'flag' (lines '37'-'42').
+src/lifegame/MapTest1.java:37:	Found 'DD'-anomaly for variable 'flag' (lines '37'-'44').
+src/lifegame/MapTest1.java:37:	Found 'DD'-anomaly for variable 'flag' (lines '37'-'44').
+src/lifegame/MapTest1.java:37:	Found 'DD'-anomaly for variable 'flag' (lines '37'-'47').
+src/lifegame/MapTest1.java:37:	Found 'DD'-anomaly for variable 'flag' (lines '37'-'47').
+src/lifegame/MapTest1.java:37:	Found 'DD'-anomaly for variable 'flag' (lines '37'-'49').
+src/lifegame/MapTest1.java:37:	Found 'DD'-anomaly for variable 'flag' (lines '37'-'49').
+src/lifegame/MapTest1.java:37:	Found 'DD'-anomaly for variable 'flag' (lines '37'-'52').
+src/lifegame/MapTest1.java:37:	Found 'DD'-anomaly for variable 'flag' (lines '37'-'52').
+src/lifegame/MapTest1.java:37:	Found 'DD'-anomaly for variable 'flag' (lines '37'-'54').
+src/lifegame/MapTest1.java:37:	Found 'DD'-anomaly for variable 'flag' (lines '37'-'54').
+src/lifegame/MapTest1.java:37:	Found 'DD'-anomaly for variable 'flag' (lines '37'-'56').
+src/lifegame/MapTest1.java:37:	Found 'DD'-anomaly for variable 'flag' (lines '37'-'56').
+src/lifegame/MapTest1.java:37:	Found 'DD'-anomaly for variable 'flag' (lines '37'-'58').
+src/lifegame/MapTest1.java:37:	Found 'DD'-anomaly for variable 'flag' (lines '37'-'58').
+src/lifegame/MapTest1.java:37:	This statement should have braces
+src/lifegame/MapTest1.java:37:	This statement should have braces
+src/lifegame/MapTest1.java:39:	Found 'DD'-anomaly for variable 'flag' (lines '39'-'37').
+src/lifegame/MapTest1.java:39:	Found 'DD'-anomaly for variable 'flag' (lines '39'-'37').
+src/lifegame/MapTest1.java:39:	Found 'DD'-anomaly for variable 'flag' (lines '39'-'39').
+src/lifegame/MapTest1.java:39:	Found 'DD'-anomaly for variable 'flag' (lines '39'-'39').
+src/lifegame/MapTest1.java:39:	Found 'DD'-anomaly for variable 'flag' (lines '39'-'42').
+src/lifegame/MapTest1.java:39:	Found 'DD'-anomaly for variable 'flag' (lines '39'-'42').
+src/lifegame/MapTest1.java:39:	Found 'DD'-anomaly for variable 'flag' (lines '39'-'44').
+src/lifegame/MapTest1.java:39:	Found 'DD'-anomaly for variable 'flag' (lines '39'-'44').
+src/lifegame/MapTest1.java:39:	Found 'DD'-anomaly for variable 'flag' (lines '39'-'47').
+src/lifegame/MapTest1.java:39:	Found 'DD'-anomaly for variable 'flag' (lines '39'-'47').
+src/lifegame/MapTest1.java:39:	Found 'DD'-anomaly for variable 'flag' (lines '39'-'49').
+src/lifegame/MapTest1.java:39:	Found 'DD'-anomaly for variable 'flag' (lines '39'-'49').
+src/lifegame/MapTest1.java:39:	Found 'DD'-anomaly for variable 'flag' (lines '39'-'52').
+src/lifegame/MapTest1.java:39:	Found 'DD'-anomaly for variable 'flag' (lines '39'-'52').
+src/lifegame/MapTest1.java:39:	Found 'DD'-anomaly for variable 'flag' (lines '39'-'54').
+src/lifegame/MapTest1.java:39:	Found 'DD'-anomaly for variable 'flag' (lines '39'-'54').
+src/lifegame/MapTest1.java:39:	Found 'DD'-anomaly for variable 'flag' (lines '39'-'56').
+src/lifegame/MapTest1.java:39:	Found 'DD'-anomaly for variable 'flag' (lines '39'-'56').
+src/lifegame/MapTest1.java:39:	Found 'DD'-anomaly for variable 'flag' (lines '39'-'58').
+src/lifegame/MapTest1.java:39:	Found 'DD'-anomaly for variable 'flag' (lines '39'-'58').
+src/lifegame/MapTest1.java:39:	This statement should have braces
+src/lifegame/MapTest1.java:39:	This statement should have braces
+src/lifegame/MapTest1.java:40:	This statement should have braces
+src/lifegame/MapTest1.java:40:	This statement should have braces
+src/lifegame/MapTest1.java:41:	Avoid using Literals in Conditional Statements
+src/lifegame/MapTest1.java:41:	Avoid using Literals in Conditional Statements
+src/lifegame/MapTest1.java:41:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:41:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:41:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:41:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:41:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:41:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:42:	Found 'DD'-anomaly for variable 'flag' (lines '42'-'42').
+src/lifegame/MapTest1.java:42:	Found 'DD'-anomaly for variable 'flag' (lines '42'-'42').
+src/lifegame/MapTest1.java:42:	Found 'DD'-anomaly for variable 'flag' (lines '42'-'44').
+src/lifegame/MapTest1.java:42:	Found 'DD'-anomaly for variable 'flag' (lines '42'-'44').
+src/lifegame/MapTest1.java:42:	Found 'DD'-anomaly for variable 'flag' (lines '42'-'47').
+src/lifegame/MapTest1.java:42:	Found 'DD'-anomaly for variable 'flag' (lines '42'-'47').
+src/lifegame/MapTest1.java:42:	Found 'DD'-anomaly for variable 'flag' (lines '42'-'49').
+src/lifegame/MapTest1.java:42:	Found 'DD'-anomaly for variable 'flag' (lines '42'-'49').
+src/lifegame/MapTest1.java:42:	Found 'DD'-anomaly for variable 'flag' (lines '42'-'52').
+src/lifegame/MapTest1.java:42:	Found 'DD'-anomaly for variable 'flag' (lines '42'-'52').
+src/lifegame/MapTest1.java:42:	Found 'DD'-anomaly for variable 'flag' (lines '42'-'54').
+src/lifegame/MapTest1.java:42:	Found 'DD'-anomaly for variable 'flag' (lines '42'-'54').
+src/lifegame/MapTest1.java:42:	Found 'DD'-anomaly for variable 'flag' (lines '42'-'56').
+src/lifegame/MapTest1.java:42:	Found 'DD'-anomaly for variable 'flag' (lines '42'-'56').
+src/lifegame/MapTest1.java:42:	Found 'DD'-anomaly for variable 'flag' (lines '42'-'58').
+src/lifegame/MapTest1.java:42:	Found 'DD'-anomaly for variable 'flag' (lines '42'-'58').
+src/lifegame/MapTest1.java:42:	This statement should have braces
+src/lifegame/MapTest1.java:42:	This statement should have braces
+src/lifegame/MapTest1.java:44:	Found 'DD'-anomaly for variable 'flag' (lines '44'-'42').
+src/lifegame/MapTest1.java:44:	Found 'DD'-anomaly for variable 'flag' (lines '44'-'42').
+src/lifegame/MapTest1.java:44:	Found 'DD'-anomaly for variable 'flag' (lines '44'-'44').
+src/lifegame/MapTest1.java:44:	Found 'DD'-anomaly for variable 'flag' (lines '44'-'44').
+src/lifegame/MapTest1.java:44:	Found 'DD'-anomaly for variable 'flag' (lines '44'-'47').
+src/lifegame/MapTest1.java:44:	Found 'DD'-anomaly for variable 'flag' (lines '44'-'47').
+src/lifegame/MapTest1.java:44:	Found 'DD'-anomaly for variable 'flag' (lines '44'-'49').
+src/lifegame/MapTest1.java:44:	Found 'DD'-anomaly for variable 'flag' (lines '44'-'49').
+src/lifegame/MapTest1.java:44:	Found 'DD'-anomaly for variable 'flag' (lines '44'-'52').
+src/lifegame/MapTest1.java:44:	Found 'DD'-anomaly for variable 'flag' (lines '44'-'52').
+src/lifegame/MapTest1.java:44:	Found 'DD'-anomaly for variable 'flag' (lines '44'-'54').
+src/lifegame/MapTest1.java:44:	Found 'DD'-anomaly for variable 'flag' (lines '44'-'54').
+src/lifegame/MapTest1.java:44:	Found 'DD'-anomaly for variable 'flag' (lines '44'-'56').
+src/lifegame/MapTest1.java:44:	Found 'DD'-anomaly for variable 'flag' (lines '44'-'56').
+src/lifegame/MapTest1.java:44:	Found 'DD'-anomaly for variable 'flag' (lines '44'-'58').
+src/lifegame/MapTest1.java:44:	Found 'DD'-anomaly for variable 'flag' (lines '44'-'58').
+src/lifegame/MapTest1.java:44:	This statement should have braces
+src/lifegame/MapTest1.java:44:	This statement should have braces
+src/lifegame/MapTest1.java:45:	This statement should have braces
+src/lifegame/MapTest1.java:45:	This statement should have braces
+src/lifegame/MapTest1.java:46:	Avoid using Literals in Conditional Statements
+src/lifegame/MapTest1.java:46:	Avoid using Literals in Conditional Statements
+src/lifegame/MapTest1.java:46:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:46:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:46:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:46:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:46:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:46:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:47:	Found 'DD'-anomaly for variable 'flag' (lines '47'-'47').
+src/lifegame/MapTest1.java:47:	Found 'DD'-anomaly for variable 'flag' (lines '47'-'47').
+src/lifegame/MapTest1.java:47:	Found 'DD'-anomaly for variable 'flag' (lines '47'-'49').
+src/lifegame/MapTest1.java:47:	Found 'DD'-anomaly for variable 'flag' (lines '47'-'49').
+src/lifegame/MapTest1.java:47:	Found 'DD'-anomaly for variable 'flag' (lines '47'-'52').
+src/lifegame/MapTest1.java:47:	Found 'DD'-anomaly for variable 'flag' (lines '47'-'52').
+src/lifegame/MapTest1.java:47:	Found 'DD'-anomaly for variable 'flag' (lines '47'-'54').
+src/lifegame/MapTest1.java:47:	Found 'DD'-anomaly for variable 'flag' (lines '47'-'54').
+src/lifegame/MapTest1.java:47:	Found 'DD'-anomaly for variable 'flag' (lines '47'-'56').
+src/lifegame/MapTest1.java:47:	Found 'DD'-anomaly for variable 'flag' (lines '47'-'56').
+src/lifegame/MapTest1.java:47:	Found 'DD'-anomaly for variable 'flag' (lines '47'-'58').
+src/lifegame/MapTest1.java:47:	Found 'DD'-anomaly for variable 'flag' (lines '47'-'58').
+src/lifegame/MapTest1.java:47:	This statement should have braces
+src/lifegame/MapTest1.java:47:	This statement should have braces
+src/lifegame/MapTest1.java:49:	Found 'DD'-anomaly for variable 'flag' (lines '49'-'47').
+src/lifegame/MapTest1.java:49:	Found 'DD'-anomaly for variable 'flag' (lines '49'-'47').
+src/lifegame/MapTest1.java:49:	Found 'DD'-anomaly for variable 'flag' (lines '49'-'49').
+src/lifegame/MapTest1.java:49:	Found 'DD'-anomaly for variable 'flag' (lines '49'-'49').
+src/lifegame/MapTest1.java:49:	Found 'DD'-anomaly for variable 'flag' (lines '49'-'52').
+src/lifegame/MapTest1.java:49:	Found 'DD'-anomaly for variable 'flag' (lines '49'-'52').
+src/lifegame/MapTest1.java:49:	Found 'DD'-anomaly for variable 'flag' (lines '49'-'54').
+src/lifegame/MapTest1.java:49:	Found 'DD'-anomaly for variable 'flag' (lines '49'-'54').
+src/lifegame/MapTest1.java:49:	Found 'DD'-anomaly for variable 'flag' (lines '49'-'56').
+src/lifegame/MapTest1.java:49:	Found 'DD'-anomaly for variable 'flag' (lines '49'-'56').
+src/lifegame/MapTest1.java:49:	Found 'DD'-anomaly for variable 'flag' (lines '49'-'58').
+src/lifegame/MapTest1.java:49:	Found 'DD'-anomaly for variable 'flag' (lines '49'-'58').
+src/lifegame/MapTest1.java:49:	This statement should have braces
+src/lifegame/MapTest1.java:49:	This statement should have braces
+src/lifegame/MapTest1.java:50:	This statement should have braces
+src/lifegame/MapTest1.java:50:	This statement should have braces
+src/lifegame/MapTest1.java:51:	Avoid using Literals in Conditional Statements
+src/lifegame/MapTest1.java:51:	Avoid using Literals in Conditional Statements
+src/lifegame/MapTest1.java:51:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:51:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:51:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:51:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:51:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:51:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:52:	Found 'DD'-anomaly for variable 'flag' (lines '52'-'52').
+src/lifegame/MapTest1.java:52:	Found 'DD'-anomaly for variable 'flag' (lines '52'-'52').
+src/lifegame/MapTest1.java:52:	Found 'DD'-anomaly for variable 'flag' (lines '52'-'54').
+src/lifegame/MapTest1.java:52:	Found 'DD'-anomaly for variable 'flag' (lines '52'-'54').
+src/lifegame/MapTest1.java:52:	Found 'DD'-anomaly for variable 'flag' (lines '52'-'56').
+src/lifegame/MapTest1.java:52:	Found 'DD'-anomaly for variable 'flag' (lines '52'-'56').
+src/lifegame/MapTest1.java:52:	Found 'DD'-anomaly for variable 'flag' (lines '52'-'58').
+src/lifegame/MapTest1.java:52:	Found 'DD'-anomaly for variable 'flag' (lines '52'-'58').
+src/lifegame/MapTest1.java:52:	This statement should have braces
+src/lifegame/MapTest1.java:52:	This statement should have braces
+src/lifegame/MapTest1.java:54:	Found 'DD'-anomaly for variable 'flag' (lines '54'-'52').
+src/lifegame/MapTest1.java:54:	Found 'DD'-anomaly for variable 'flag' (lines '54'-'52').
+src/lifegame/MapTest1.java:54:	Found 'DD'-anomaly for variable 'flag' (lines '54'-'54').
+src/lifegame/MapTest1.java:54:	Found 'DD'-anomaly for variable 'flag' (lines '54'-'54').
+src/lifegame/MapTest1.java:54:	Found 'DD'-anomaly for variable 'flag' (lines '54'-'56').
+src/lifegame/MapTest1.java:54:	Found 'DD'-anomaly for variable 'flag' (lines '54'-'56').
+src/lifegame/MapTest1.java:54:	Found 'DD'-anomaly for variable 'flag' (lines '54'-'58').
+src/lifegame/MapTest1.java:54:	Found 'DD'-anomaly for variable 'flag' (lines '54'-'58').
+src/lifegame/MapTest1.java:54:	This statement should have braces
+src/lifegame/MapTest1.java:54:	This statement should have braces
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest1.java:56:	This statement should have braces
+src/lifegame/MapTest1.java:56:	This statement should have braces
+src/lifegame/MapTest1.java:58:	This statement should have braces
+src/lifegame/MapTest1.java:58:	This statement should have braces
+src/lifegame/MapTest1.java:59:	JUnit assertions should include a message
+src/lifegame/MapTest1.java:59:	JUnit assertions should include a message
+src/lifegame/MapTest1.java:59:	Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/lifegame/MapTest1.java:59:	Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
